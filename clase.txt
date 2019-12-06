@@ -1,0 +1,7 @@
+
+1.- cd  entrar a un directorio
+2.- pwd te indica donde estas posicionado
+3.- touch crea unicamente archivos
+4.- mkdir crea unicamente carpetas
+5.- la lista con detalles lo que tienes en un directorio(carpeta) 
+6.- 
